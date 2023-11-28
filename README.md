@@ -1,5 +1,5 @@
 # Deb-Guard
-Used to terminate processes by name and outgoing ip/domain in a loop.
+Used to terminate processes by name and outgoing ip/domain in a loop. Used packages are base Debian/Ubuntu packages so the script can be run on skeleton systems without installing tools (kill, grep, ping OR dig, ps aux, tr, cut)
 
 ![G-2](https://github.com/Blk-S-Bellamy/Deb-Guard/assets/95153890/9f966913-397b-4d14-8c88-b0e633a61970)
 ## **--USAGE GUIDE--**
