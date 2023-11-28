@@ -28,6 +28,10 @@ Simply execute script after altering config and adding banned ip address, proces
 1. _**"DEBUG_MODE"**_ Print the loops/iterations of the program to the terminal and the found banned processes/banned outgoing ip. <sup>**OPTIONS:(0/1)**</sup>
 2. _**"PRINT_CON"**_ Print the found banned processes/banned outgoing ip. <sup>**OPTIONS:(0/1)**</sup>
 
+![G-6](https://github.com/Blk-S-Bellamy/Deb-Guard/assets/95153890/69eb5d3e-ef21-49aa-bfde-ba4e9204ee6f)
+
+<sub> _an example of two programs being terminated with debug mode enabled. one is name blacklist and one is domain blacklist_ </sub>
+
 ## **--EXAMPLES--**
 
 **BANNING PROCESSES BY NAME**
