@@ -10,7 +10,7 @@ VERSION="DEB-GUARD_1.0"
 #|__________▄\_):,_____|
 #|<¤¤¤ßlk-S-Bellamy¤¤¤>|
 #⣿¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤⣿
-# FOR USAGE: https://github.com/Blk-S-Bellamy/Deb-Guard
+# FOR HELP: https://github.com/Blk-S-Bellamy/Deb-Guard
 
 #⣿¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤⣿
 #|    DEB-GUARD GLOBAL CONFIGURATION
@@ -251,12 +251,6 @@ seek_kill () {
 #⣿¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤⣿
 #⣿                              START SOCKET PROCESS TERMINATION DEB-GUARD MODULE 
 #⣿▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄⣿
-
-
-dns_lookup_f () {
-	:
-	# DNS_LU_CALL
-}
 
 
 # WILL PASS BACK THE QUERY SELECTED THROUGH FILTER SETTINGS
