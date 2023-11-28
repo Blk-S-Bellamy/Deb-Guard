@@ -30,7 +30,7 @@ Simply execute script after altering config and adding banned ip address, proces
 
 ![G-6](https://github.com/Blk-S-Bellamy/Deb-Guard/assets/95153890/69eb5d3e-ef21-49aa-bfde-ba4e9204ee6f)
 
-<sub> _an example of two programs being terminated with debug mode enabled. one is name blacklist and one is domain blacklist_ </sub>
+<sub> _an example of a program being terminated with debug mode enabled._ </sub>
 
 ## **--EXAMPLES--**
 
